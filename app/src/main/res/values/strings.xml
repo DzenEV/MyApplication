@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bt">next image</string>
+    <string name="title">Title</string>
+    <string name="title2">Description</string>
+    <string name="bDone">Done</string>
+</resources>
